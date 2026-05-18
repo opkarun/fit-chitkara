@@ -3,7 +3,7 @@
 A feature-rich, AI-powered personal fitness and health tracking web application built for Chitkara University students and beyond. Track workouts, nutrition, sleep, hydration, and body measurements — all in one beautifully designed dashboard.
 
 ---
-
+---
 ## ✨ Features
 
 | Category | Features |
