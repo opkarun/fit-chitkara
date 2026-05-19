@@ -4,6 +4,7 @@ A feature-rich, AI-powered personal fitness and health tracking web application 
 
 ---
 ---
+---
 ## ✨ Features
 
 | Category | Features |
